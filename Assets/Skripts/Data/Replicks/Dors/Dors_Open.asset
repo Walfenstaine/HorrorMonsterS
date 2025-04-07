@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9620247e911fea4c8d4f0b51ce6884d, type: 3}
+  m_Name: Dors_Open
+  m_EditorClassIdentifier: 
+  repliks:
+  - <ru>k__BackingField: "\u041C\u043E\u0436\u043D\u043E \u0432\u043E\u0439\u0442\u0438"
+    <en>k__BackingField: You can come in
+  - <ru>k__BackingField: "\u041E\u0442\u043A\u0440\u044B\u0442\u043E"
+    <en>k__BackingField: Open
+  - <ru>k__BackingField: "\u041F\u043E\u043B\u0443\u0447\u0438\u043B\u043E\u0441\u044C"
+    <en>k__BackingField: It worked

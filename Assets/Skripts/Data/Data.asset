@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74bb03ad41673f643882d7c24c2184bd, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  sound_On: 1
+  indexes: 
+  indexesDan: 02000000
+  predmets:
+  - {fileID: 21300000, guid: 622ae3c72d3ab0f45a03a93b5e3713e1, type: 3}
+  - {fileID: 21300000, guid: 286b9bbe45720da418ba2023b2f3d7df, type: 3}
+  - {fileID: 21300000, guid: 9edeab77324a5804188e845a85d4c697, type: 3}
+  - {fileID: 21300000, guid: a920d961d5820054d9023e3402e55561, type: 3}
+  - {fileID: 21300000, guid: c08e581c7d046b043af345873c1bd10d, type: 3}
+  - {fileID: 21300000, guid: 26294c1cb03653d4eb17d1b351f523d3, type: 3}
+  - {fileID: 21300000, guid: 678144d72dc009e4c86807cbafe32a6f, type: 3}
+  - {fileID: 21300000, guid: b6aa15a8943c5af489773b71b34feaf0, type: 3}
+  lavel: Scene1
+  language: ru
+  volume: 0.27100438
